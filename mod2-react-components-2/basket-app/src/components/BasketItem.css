@@ -1,0 +1,23 @@
+.BasketItem{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #000;
+}
+.BasketItem-num{
+    width: 20px;
+}
+.BasketItem-title{
+    width: 200px;
+}
+.BasketItem-price{
+    width: 50px;
+}
+.BasketItem-qty{
+    width: 100px;
+}
+.BasketItem-amount{
+    width: 100px;
+}
+.BasketItem-link{
+    width: 100px;
+}
